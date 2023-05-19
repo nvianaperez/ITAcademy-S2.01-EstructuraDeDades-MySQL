@@ -1,0 +1,1 @@
+SELECT * FROM `optics_cul_d'ampolla`.sale;
